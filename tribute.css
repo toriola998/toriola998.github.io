@@ -1,0 +1,15 @@
+
+#img-div, #intro, #link, h3 {
+    text-align: center;
+}
+
+#tribute-info, blockquote {
+    padding: 0px 390px 0px 390px;
+    line-height: 1.6;
+}
+
+
+#main {
+    background-color: #dcdcdc;
+    font-size: 18px;
+}
